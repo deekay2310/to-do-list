@@ -1,0 +1,20 @@
+<html>
+<head>
+</head>
+<body>
+<div id="myDIV" class="header">
+  <h2>Games List</h2>
+  <input type="text" id="myInput" placeholder="Title...">
+  <span onclick="newElement()" class="addBtn">Add</span>
+</div>
+
+<ul id="myUL">
+  <li>CSGO</li>
+  <li class="checked">Mario</li>
+  <li>Dota</li>
+  <li>Angry birds</li>
+  <li>Chess</li>
+  <li>Sudoku</li>
+</ul>
+</body>
+</html>
