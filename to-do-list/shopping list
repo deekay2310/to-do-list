@@ -1,0 +1,20 @@
+<html>
+<head>
+</head>
+<body>
+<div id="myDIV" class="header">
+  <h2>Shopping List</h2>
+  <input type="text" id="myInput" placeholder="Title...">
+  <span onclick="newElement()" class="addBtn">Add</span>
+</div>
+
+<ul id="myUL">
+  <li>Jeans</li>
+  <li class="checked">Tops</li>
+  <li>Dresses</li>
+  <li>Sarees</li>
+  <li>Shorts</li>
+  <li>Shoes</li>
+</ul>
+</body>
+</html>
