@@ -1,0 +1,20 @@
+<html>
+<head>
+</head>
+<body>
+<div id="myDIV" class="header">
+  <h2>Food List</h2>
+  <input type="text" id="myInput" placeholder="Title...">
+  <span onclick="newElement()" class="addBtn">Add</span>
+</div>
+
+<ul id="myUL">
+  <li>Burgers</li>
+  <li class="checked">Fries</li>
+  <li>Pizza</li>
+  <li>Sandwhich</li>
+  <li>Tacos</li>
+  <li>Salad</li>
+</ul>
+</body>
+</html>
